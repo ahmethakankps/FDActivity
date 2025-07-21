@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FC65038C-1B2F-41E1-A629-BED71D161FFF}") = "FinanceOperations1 (ISV) [Fleet Management]", "FinanceOperations1\FinanceOperations1.rnrproj", "{602E2A4D-1257-4C0C-AADD-E15F9F6E7BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{602E2A4D-1257-4C0C-AADD-E15F9F6E7BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602E2A4D-1257-4C0C-AADD-E15F9F6E7BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
